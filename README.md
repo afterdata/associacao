@@ -4,7 +4,7 @@
 
 1. [Clique aqui](https://afterdata.in) e acesse nosso **Site** e confira os últimos eventos e vagas de empresas parceiras;
 
-2. Se você deseja nos ajudar com a associação e seus movimentos entre em contato por e-mail: contato@afterdata.in;
+2. Se você deseja nos ajudar com a associação e seus movimentos, entre em contato por e-mail: contato@afterdata.in;
 
 3. Nós estamos apoiando a [SaferNet](https://safernet.org.br) com o projeto [Cidadão Digital](https://www.safernet.org.br/site/cidadania-digital/formacao) então se você clicar aqui, será redirecionado para um guia em constante desenvolvimento aonde serão abordados os temas do projeto.
 
