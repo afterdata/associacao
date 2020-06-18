@@ -14,7 +14,7 @@
 
 ## QUEM SOMOS
 
-Uma comunidade fundada por um programador, um estatístico e um advogado, mas que quer ser sustentada por uma comunidade muito maior e inclusive por você. A **missão** do AfterData é  **ser referência no norte do Paraná como uma comunidade dedicada ao estudo de dados**, tendo como base os seguintes valores: **ética, reciprocidade, engajamento, e compartilhamento de ideias**.
+Uma comunidade fundada por um programador, um estatístico e um advogado, que deseja se tornar autosustentavel por um enorme grupo de pessoas que se importe por dados, e por uma educação tecnológica de nossa sociedade, se você se identificou entre em contato. A **missão** do AfterData é  **ser referência no norte do Paraná como uma comunidade dedicada ao estudo de dados**, tendo como base os seguintes valores: **ética, reciprocidade, engajamento, e compartilhamento de ideias**.
 
 Então basicamente somos apaixonados por Dados e todas suas aplicações e sabemos que são inúmeras, quando **desejamos montar uma comunidade** obviamente sabemos que são pessoas que vão integrar elas, constituir os eventos... por isso o AfterData tem total compromisso com a sociedade e com todos inseridos nela, desde a criação do seu **código de conduta**, até o apoio a eventos e causas sociais.
 
